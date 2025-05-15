@@ -2,7 +2,16 @@
 
 A new Flutter project.
 
-# Commands
+## Commands
 
--   get-graphql-schema http://localhost:3000/graphql > lib/core/graphql/schema.graphql
--   flutter pub run build_runner build
+### Fetch GraphQL Schema
+
+```
+get-graphql-schema http://localhost:3000/graphql > lib/core/graphql/schema.graphql
+```
+
+### Run builder
+
+```
+flutter pub run build_runner build
+```
