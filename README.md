@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Commands
 
+Run the below commands in the root path of the project to pull the graphql schema into the application and to generate the Ferry graphql methods
+
 ### Fetch GraphQL Schema
 
 ```
