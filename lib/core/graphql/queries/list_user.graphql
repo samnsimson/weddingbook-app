@@ -1,0 +1,14 @@
+query listUsers {
+    users {
+        id
+        username
+        email
+        phone
+        isActive
+        isEmailVerified
+        isPhoneVerified
+        createdAt
+        updatedAt
+        deletedAt
+    }
+}
